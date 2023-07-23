@@ -1,0 +1,1 @@
+# basic-wasm-worker
